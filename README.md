@@ -1,1 +1,2 @@
-This file will have a brief introduction describing the project, and what skills I will have demonstrated once completed. 
+This website demonstrates the use of HTML.
+Recipe pages connected to the index.html, images, headings, and lists. 
