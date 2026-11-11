@@ -1,0 +1,49 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    background-color: rgb(201, 255, 237);
+}
+
+/* * {
+    outline: 2px solid red;
+} */
+
+.main-heading{
+    font-size: 2rem;
+    padding: 10px;
+}
+
+.recipe-box h2{
+    display: block;
+    font-size: 1.5rem;
+    padding: 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.recipe-box{
+    display: block;
+    padding: 20px;
+    background-color: antiquewhite;
+    border: 5px dotted rgb(225, 0, 255);
+    width: 500px;
+    
+}
+
+#recipe-list li{
+    list-style-type: disc;
+    list-style-position: inside;
+    color: black;
+    width: 1fr;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+}
+
+ul {
+    padding: 0px;
+}
